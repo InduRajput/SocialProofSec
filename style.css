@@ -157,7 +157,7 @@ body {
   .section5 {
     position: absolute;
     bottom: 10px;
-    left:-20px;
+    right:20px;
   }
 
   .section6 {
@@ -176,3 +176,4 @@ body {
   .sectionX {
     width: 350px;
   }
+}

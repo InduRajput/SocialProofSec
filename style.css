@@ -118,7 +118,7 @@ body {
   bottom: 490px;
 }
 
-@media only screen and (max-width:575px) {
+@media only screen and (max-width:375px) {
 
   body {
     background-image: url("images/bg-pattern-top-mobile.svg"), url("images/bg-pattern-bottom-mobile.svg");
